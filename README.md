@@ -9,3 +9,5 @@ Baseline is an integrated monitoring and information system that provides inform
 1. Soil Moisture 
 1. People
 
+#### Project Presentation 
+Please find the project presentation [here](https://github.com/Bluewaterfrog/Baseline/raw/master/AmitTandon_Samvidha.ppsx) 
