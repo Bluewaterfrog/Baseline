@@ -1,2 +1,2 @@
 # Baseline
-Integrated monitoring and information system for water resource management
+The project aims to strengthen water democracy.
